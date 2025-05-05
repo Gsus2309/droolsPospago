@@ -1,5 +1,5 @@
 <kmodule xmlns="http://www.drools.org/xsd/kmodule">
-    <kbase name="decisionKBase" packages="tablaPospago">
+    <kbase name="decisionKBase" packages="reglas">
         <ksession name="decisionKSession"/>
     </kbase>
 </kmodule>
